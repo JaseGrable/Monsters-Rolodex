@@ -25,6 +25,7 @@ componentDidMount(){
   render() {
     return(
       <div className='App'>
+        <input className = 'search-box' type = 'search' placeholder='search monsters' onChange={(event) => {}} />
         {this.state.monsters.map((monster) => {
           return(
             <div key={monster.id}>
