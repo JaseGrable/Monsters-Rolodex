@@ -13,7 +13,7 @@
 
 ## Description
 
-A SPA with a functional search bar to find different monsters with name, email, and image.
+A SPA with a functional search bar to find different monsters with name, email, and image. This project was built via lessons from zerotomastery.io
 
 ## Setup/Installation Requirements
 
