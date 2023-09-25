@@ -1,3 +1,32 @@
+# Monsters Rolodex
+
+#### A website to view and update a coffee inventory, built with JavaScript & React
+
+#### By Jase Grable
+
+## Technologies Used
+
+- Git
+- JavaScript
+- React
+- HTML & CSS
+
+## Description
+
+A SPA with a functional search bar to find different monsters with name, email, and image.
+
+## Setup/Installation Requirements
+
+1. Clone this project to your local machine using the following command:
+
+```
+git clone https://github.com/jasegrable/Monsters-Rolodex.git
+```
+
+2. Open your shell and navigate to this project's production directory named `coffee-shop`.
+3. Run the command `npm install` to install all Node packages and dependencies.
+4. run the command `npm run start` to bundle and begin running the project. The app will automatically open in your browser.
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -14,6 +43,8 @@ You may also see any lint errors in the console.
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+_Note: no test files have been implemented for this project. Visit the above link for information on setting up tests._
 
 ### `npm run build`
 
@@ -35,28 +66,10 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## Known Bugs
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- _No known bugs_
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## License
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+[MIT](LICENSE.txt)
