@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import CardList from './Components/card-list/card-list.component';
 import './App.css';
 import { Component } from 'react';
 
